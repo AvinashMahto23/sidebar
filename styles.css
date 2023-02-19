@@ -113,7 +113,7 @@ ul {
   display: none;
   min-height: 100vh;
   min-width: 300px;
-  background: #bcfd4c;
+  background: var(--gold);
 }
 .show-sidebar {
   display: grid;
