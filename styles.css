@@ -111,9 +111,9 @@ ul {
   top: 0;
   left: 0;
   display: none;
-  min-height: 1170px;
+  min-height: 100vh;
   min-width: 300px;
-  background: var(--gold);
+  background: var(--green);
 }
 .show-sidebar {
   display: grid;
